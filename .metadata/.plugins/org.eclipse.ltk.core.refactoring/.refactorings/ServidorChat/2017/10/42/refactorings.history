@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;servidor.IMensaje&apos; to &apos;IMensajes&apos;&#x0A;- Original project: &apos;ServidorChat&apos;&#x0A;- Original element: &apos;servidor.IMensaje&apos;&#x0A;- Renamed element: &apos;servidor.IMensajes&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IMensaje&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;servidor{IMensaje.java[IMensaje" matchStrategy="1" name="IMensajes" qualified="false" references="true" similarDeclarations="false" stamp="1508032914699" textual="false" version="1.0"/>
+</session>
